@@ -1,0 +1,9 @@
+
+
+http://localhost:5555/CURRENCY-CONVERSION/currency-convesion-feign/from/USD/to/INR/quantity/10
+http://localhost:5555/CURRENCY-CONVERSION/currency-convesion/from/USD/to/INR/quantity/10
+
+
+
+
+http://localhost:5555/CURRENCY-EXCHANGE/currency-exchange/from/EUR/to/INR
